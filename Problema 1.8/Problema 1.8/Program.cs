@@ -1,4 +1,5 @@
 ﻿using Problema_1._8.Clases;
+using Problema_1._8.Clases.Enum;
 
 class Program
 {
