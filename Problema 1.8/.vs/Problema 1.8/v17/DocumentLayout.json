@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Diego Pineda\\source\\repos\\Problema 1.8\\",
+  "WorkspaceRootPath": "C:\\Users\\Diego Pineda\\Problema-1.8\\Problema 1.8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|c:\\users\\diego pineda\\source\\repos\\problema 1.8\\problema 1.8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|c:\\users\\diego pineda\\problema-1.8\\problema 1.8\\problema 1.8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|solutionrelative:problema 1.8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|c:\\users\\diego pineda\\source\\repos\\problema 1.8\\problema 1.8\\clases\\enum\\sexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|solutionrelative:problema 1.8\\clases\\enum\\sexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|c:\\users\\diego pineda\\source\\repos\\problema 1.8\\problema 1.8\\clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|solutionrelative:problema 1.8\\clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|c:\\users\\diego pineda\\source\\repos\\problema 1.8\\problema 1.8\\clases\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|c:\\users\\diego pineda\\problema-1.8\\problema 1.8\\problema 1.8\\clases\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|solutionrelative:problema 1.8\\clases\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|c:\\users\\diego pineda\\source\\repos\\problema 1.8\\problema 1.8\\clases\\atencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|c:\\users\\diego pineda\\problema-1.8\\problema 1.8\\problema 1.8\\clases\\enum\\sexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|solutionrelative:problema 1.8\\clases\\enum\\sexo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|c:\\users\\diego pineda\\problema-1.8\\problema 1.8\\problema 1.8\\clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|solutionrelative:problema 1.8\\clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|c:\\users\\diego pineda\\problema-1.8\\problema 1.8\\problema 1.8\\clases\\atencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|solutionrelative:problema 1.8\\clases\\atencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|c:\\users\\diego pineda\\source\\repos\\problema 1.8\\problema 1.8\\clases\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|solutionrelative:problema 1.8\\clases\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|c:\\users\\diego pineda\\problema-1.8\\problema 1.8\\problema 1.8\\clases\\enum\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFBFE94A-F4D8-47D6-B081-41C6D36EE25A}|Problema 1.8\\Problema 1.8.csproj|solutionrelative:problema 1.8\\clases\\enum\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,22 +52,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Diego Pineda\\source\\repos\\Problema 1.8\\Problema 1.8\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Problema-1.8\\Problema 1.8\\Problema 1.8\\Program.cs",
               "RelativeDocumentMoniker": "Problema 1.8\\Program.cs",
-              "ToolTip": "C:\\Users\\Diego Pineda\\source\\repos\\Problema 1.8\\Problema 1.8\\Program.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Problema-1.8\\Problema 1.8\\Problema 1.8\\Program.cs",
               "RelativeToolTip": "Problema 1.8\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T19:19:43.829Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Sexo.cs",
-              "DocumentMoniker": "C:\\Users\\Diego Pineda\\source\\repos\\Problema 1.8\\Problema 1.8\\Clases\\Enum\\Sexo.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Problema-1.8\\Problema 1.8\\Problema 1.8\\Clases\\Enum\\Sexo.cs",
               "RelativeDocumentMoniker": "Problema 1.8\\Clases\\Enum\\Sexo.cs",
-              "ToolTip": "C:\\Users\\Diego Pineda\\source\\repos\\Problema 1.8\\Problema 1.8\\Clases\\Enum\\Sexo.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Problema-1.8\\Problema 1.8\\Problema 1.8\\Clases\\Enum\\Sexo.cs",
               "RelativeToolTip": "Problema 1.8\\Clases\\Enum\\Sexo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,47 +75,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Diego Pineda\\source\\repos\\Problema 1.8\\Problema 1.8\\Clases\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Problema-1.8\\Problema 1.8\\Problema 1.8\\Clases\\Cliente.cs",
               "RelativeDocumentMoniker": "Problema 1.8\\Clases\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Diego Pineda\\source\\repos\\Problema 1.8\\Problema 1.8\\Clases\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Problema-1.8\\Problema 1.8\\Problema 1.8\\Clases\\Cliente.cs",
               "RelativeToolTip": "Problema 1.8\\Clases\\Cliente.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T18:58:28.307Z"
+              "WhenOpened": "2024-08-23T18:58:28.307Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Mascota.cs",
-              "DocumentMoniker": "C:\\Users\\Diego Pineda\\source\\repos\\Problema 1.8\\Problema 1.8\\Clases\\Mascota.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Problema-1.8\\Problema 1.8\\Problema 1.8\\Clases\\Mascota.cs",
               "RelativeDocumentMoniker": "Problema 1.8\\Clases\\Mascota.cs",
-              "ToolTip": "C:\\Users\\Diego Pineda\\source\\repos\\Problema 1.8\\Problema 1.8\\Clases\\Mascota.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Problema-1.8\\Problema 1.8\\Problema 1.8\\Clases\\Mascota.cs",
               "RelativeToolTip": "Problema 1.8\\Clases\\Mascota.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAywB0AAAAjAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwB0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T18:48:30.68Z"
+              "WhenOpened": "2024-08-23T18:48:30.68Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Tipo.cs",
-              "DocumentMoniker": "C:\\Users\\Diego Pineda\\source\\repos\\Problema 1.8\\Problema 1.8\\Clases\\Tipo.cs",
-              "RelativeDocumentMoniker": "Problema 1.8\\Clases\\Tipo.cs",
-              "ToolTip": "C:\\Users\\Diego Pineda\\source\\repos\\Problema 1.8\\Problema 1.8\\Clases\\Tipo.cs",
-              "RelativeToolTip": "Problema 1.8\\Clases\\Tipo.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Problema-1.8\\Problema 1.8\\Problema 1.8\\Clases\\Enum\\Tipo.cs",
+              "RelativeDocumentMoniker": "Problema 1.8\\Clases\\Enum\\Tipo.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Problema-1.8\\Problema 1.8\\Problema 1.8\\Clases\\Enum\\Tipo.cs",
+              "RelativeToolTip": "Problema 1.8\\Clases\\Enum\\Tipo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T18:44:02.616Z"
+              "WhenOpened": "2024-08-23T18:44:02.616Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Atencion.cs",
-              "DocumentMoniker": "C:\\Users\\Diego Pineda\\source\\repos\\Problema 1.8\\Problema 1.8\\Clases\\Atencion.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\Problema-1.8\\Problema 1.8\\Problema 1.8\\Clases\\Atencion.cs",
               "RelativeDocumentMoniker": "Problema 1.8\\Clases\\Atencion.cs",
-              "ToolTip": "C:\\Users\\Diego Pineda\\source\\repos\\Problema 1.8\\Problema 1.8\\Clases\\Atencion.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\Problema-1.8\\Problema 1.8\\Problema 1.8\\Clases\\Atencion.cs",
               "RelativeToolTip": "Problema 1.8\\Clases\\Atencion.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAASwBQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
