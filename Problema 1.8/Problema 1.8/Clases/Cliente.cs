@@ -22,8 +22,7 @@ namespace Problema_1._8.Clases
             Mascota = new Mascota(NombreAnimal,EdadAnimal,tipoAnimal);
         }
         public override string ToString()
-        {
-
+        {        
             return $"Codigo: {Codigo}, Nombre: {Nombre}, Sexo: {Sexo}, {Mascota.ToString()}";
         }
     }
