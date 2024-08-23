@@ -28,7 +28,7 @@ namespace Problema_1._8.Clases
         }
         public override string ToString()
         {
-            return $"Nombre: {Nombre}, Edad: {Edad}, Tipo: {Tipo}, {Atencion.ToString()}";
+            return $"Nombre Mascota: {Nombre}, Edad Mascota: {Edad}, Tipo: {Tipo}";
         }
     }
 }
